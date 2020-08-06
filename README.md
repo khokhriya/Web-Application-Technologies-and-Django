@@ -4,3 +4,8 @@
 * An introductory understanding of Hypertext Markup Language (HTML), as well as the overall structure of a Django application.  
 * The Model-View-Controller (MVC) pattern for web applications and how it relates to Django. 
 * How to deploy a Django application using a service like PythonAnywhere so that it is available over the Internet. 
+## Introduction to Dynamic Web Content
+* Explain how the request-response cycle works
+* Describe the basics of HyperText Transfer Protocol (HTTP)
+* Explain the role of sockets in internet communication flows
+* Describe the relationship between ports, servers, and protocols
